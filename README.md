@@ -18,4 +18,4 @@ Screenshots of deployed final websit
 
 ![screenshot](/assets/images/deployed_site_%201.png)
 
-![screenshot](/assets/images/deployed_site_%202.png)
+![screenshot](/assets/images/deployed_site_2.png)
