@@ -16,5 +16,5 @@ Horiseon Websit--https://nafkot2022.github.io/negussie_horiseon/
 
 Screenshots of deployed final websit
 
-![image]("C:\Users\Nafkot Negussie\Desktop\deployed_site_ 1.png")
-![image]("C:\Users\Nafkot Negussie\Desktop\deplyed_site_ 2.png")
+![screenshot](C:\Users\Nafkot Negussie\Desktop\weekly-challenge\negussie_horiseon\assets\images\deployed-site-1.png)
+![image](C:\Users\Nafkot Negussie\Desktop\deplyed_site_ 2.png)
