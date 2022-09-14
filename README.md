@@ -17,4 +17,5 @@ Horiseon Websit--https://nafkot2022.github.io/negussie_horiseon/
 Screenshots of deployed final websit
 
 ![screenshot](/assets/images/deployed-site-1.png))
+
 ![screenshot](/assets/images/deployed-site-2.png)
