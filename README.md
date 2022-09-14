@@ -15,6 +15,7 @@ THEN I find a concise, descriptive title
 Horiseon Websit--https://nafkot2022.github.io/negussie_horiseon/
 
 Screenshots of deployed final websit
-![Image](C:\Users\Nafkot Negussie\Desktop\weekly-challenge\negussie_horiseon\assets\images\deployed site 1.png)
 
-![Image](C:\Users\Nafkot Negussie\Desktop\weekly-challenge\negussie_horiseon\assets\images\deplyed site 2.png)
+![Image]("C:\Users\Nafkot Negussie\Desktop\deployed site 1.png")
+
+![Image]("C:\Users\Nafkot Negussie\Desktop\deployed site 1.png")
